@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="submit">Submit</string>
+    <string name="undo">Undo</string>
+    <string name="ten_points">+10 POINTS</string>
+    <string name="reset">RESET</string>
+    <string name="score_counter">Score Counter</string>
+</resources>
